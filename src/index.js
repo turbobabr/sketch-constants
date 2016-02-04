@@ -57,7 +57,7 @@ export const BorderPosition = {
     Center: 0,
     Inside: 1,
     Outside: 2,
-    Both: 3
+    Both: 3 // This is Sketch internal option - don't use it.
 };
 
 export const MaskMode = {
