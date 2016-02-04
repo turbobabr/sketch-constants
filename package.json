@@ -1,7 +1,7 @@
 {
   "name": "sketch-constants",
   "version": "1.0.0",
-  "description": "A set of common Sketch constants used for plugings development.",
+  "description": "A set of common Sketch constants used for plugins development.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
