@@ -14,7 +14,9 @@ export const GradientType = {
 
 export const PatternFillType = {
     Tile: 0,
-    Fill: 1
+    Fill: 1,
+    Stretch: 2,
+    Fit: 3
 };
 
 export const NoiseFillType = {
