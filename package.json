@@ -1,6 +1,6 @@
 {
   "name": "sketch-constants",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "description": "A set of common Sketch constants used for plugins development.",
   "main": "lib/index.js",
   "scripts": {
