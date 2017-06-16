@@ -58,8 +58,7 @@ export const BlurType = {
 export const BorderPosition = {
     Center: 0,
     Inside: 1,
-    Outside: 2,
-    Both: 3 // This is Sketch internal option - don't use it.
+    Outside: 2
 };
 
 export const MaskMode = {
