@@ -26,8 +26,6 @@ export const NoiseFillType = {
     Color: 3
 };
 
-
-// _MSStyleBorderOptions
 export const BorderLineCapsStyle = {
     Butt: 0,
     Round: 1,
@@ -47,7 +45,6 @@ export const LineDecorationType = {
     Bar: 3
 };
 
-// _MSStyleBlur
 export const BlurType = {
     GaussianBlur: 0,
     MotionBlur: 1,
